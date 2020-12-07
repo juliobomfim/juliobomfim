@@ -1,4 +1,9 @@
 ### Hi there 👋
+Contact me: <br/>
+<a href="mailto:juliocezar.bomfim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/julio-cezar-bomfim-83330b166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+
+
 
 <!--
 **juliobomfim/juliobomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
